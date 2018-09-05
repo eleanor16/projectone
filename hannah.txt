@@ -9,3 +9,19 @@ to that later. What else would you like to know about me? I could tell you that
 I have a cat named Socks, a best friend named Lauren, and a brother named Kyle.
 Or maybe you'd like to know that my favorite season is fall, my favorite color
 is green (like this), and my favorite book is Ender's game.
+
+This semester I'm taking a class to learn the basics of web design. Now, I know
+what you might be thinking-what does web design have to do with chemical
+engineering?? Trust me, I've thought about it too, but this is 2018, and I've
+been wanting to learn a computer language other than MATLAB for some time now,
+so here I am. Now you might be thinking, "Hannah, what do you hope to do by
+learning things like HTML, CSS, and Javascript?" Well, I'm so glad you asked.
+You see, in addition to my nerdy classes, I'm also in charge of PR for two
+student organizations on my campus. Because of this position, I have to manage
+and update our websites pretty often. However, the website for one of these
+groups (my favorite one) doesn't look very pretty or professional, and the
+other group doesn't even have a website right now. I'm hoping to be able to make
+a site for one of these clubs during this semester and then be able to make
+another page for the other organization sometime in the future (maybe during one
+of my holiday breaks). So there you have it. I'm trying to learn how to make
+webpages so that I can do my PR job better.
