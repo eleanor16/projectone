@@ -1,11 +1,21 @@
-body {
-background-color: #ccd9ff;
-}
-strong { font-weight: bold; }
 html {
   font-family: "Roboto Slab", Utopia, Georgia, "Theano Didot", serif;
  }
-h1{ font-weight: normal; }
-body { color: black;}
-header { background-color: #668cff}
-p { line-height: 1.35; }
+h1{
+  font-weight: normal;
+}
+header {
+  background-color: #668cff
+}
+body {
+background-color: #ccd9ff;
+}
+body {
+  color: black;
+}
+p {
+  line-height: 1.35;
+}
+strong {
+  font-weight: bold;
+}
