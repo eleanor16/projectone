@@ -3,15 +3,21 @@ html {
  }
 h1{
   font-weight: normal;
+  text-align:center;
 }
 header {
-  background-color: #668cff
+  background-color: #ffffe6;
+  color:#000066;
+  right: 4px;
 }
 body {
-background-color: #ccd9ff;
+background-color: #99c2b8;
+color:#000066;
 }
-body {
-  color: black;
+h2 {
+  font-weight: normal;
+  text-align:center;
+  color: #ffffe6;
 }
 p {
   line-height: 1.35;
@@ -21,4 +27,11 @@ strong {
 }
 a {
   text-decoration: none;
+}
+em {
+  background-color: #ffffe6;
+  color: #587215;
+  font-weight: bold;
+  font-style: normal;
+
 }
