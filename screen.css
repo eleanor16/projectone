@@ -33,5 +33,7 @@ em {
   color: #587215;
   font-weight: bold;
   font-style: normal;
-
+}
+img {
+  display: block;
 }
