@@ -40,3 +40,8 @@ img {
   width: 100%;
   box-sizing: border-box;
 }
+.caption {
+  text-align: center;
+  background-color: #ffffe6;
+  color:#000066;
+}
