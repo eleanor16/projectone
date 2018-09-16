@@ -36,4 +36,7 @@ em {
 }
 img {
   display: block;
+  border: thick double #000066;
+  width: 100%;
+  box-sizing: border-box;
 }
